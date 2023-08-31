@@ -1,5 +1,5 @@
 # Portfolio
-This fall 2023, I am taking the course *Telling Stories with Data* at the Carnegie Mellon University! Here you can look at what I came up with as I learn and explore more with the tools available to me. Just a caveat, I want you to look at the progress that I made throughout. I cannot wait to take you with me in this journey!
+This fall 2023, I am taking the course *Telling Stories with Data* at the Carnegie Mellon University. Here you can preview my portfolio designs as I learn and explore more with data visualization contingent to the tools available to me. I cannot wait to take you with me in this journey!
 
 # About me
 <img src="ProPic.jpg" width="200"/> 
