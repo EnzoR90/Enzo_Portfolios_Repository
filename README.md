@@ -6,6 +6,8 @@ Mabuhay!  My name is **Kent Laurence** but my preferred name is **Enzo**. I am a
 
 Fan facts about me, I used to be a mountain climber, but since I have no time to do this here in the U.S., I shifted my interest into working out five times a week. I am also a fur parent to two adorable and energetic beagles. 
 
+https://github.com/EnzoR90/Enzo_Portfolios_Repository#:~:text=Commit%20time-,Beagles.jpg,-Add%20files%20via
+
 # What I hope to learn
 I wish to learn the effective and appropriate visualization techniques that will encompass colour hue selection and aesthetically pleasing layout, inter alia, consequently understanding how it will colleasce with the data narrative to be better appreciated by the audience.
 
