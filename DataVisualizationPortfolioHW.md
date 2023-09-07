@@ -2,7 +2,7 @@
 
 <iframe src="https://data.oecd.org/chart/7b5y" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/7b5y" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2022</a></iframe>
 
-# II.cGovernment debt-to-GDP from 1996 to 2020
+# II.Government debt-to-GDP of select countries from 1996 to 2020
 <div class="flourish-embed flourish-chart" data-src="visualisation/14953142"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 Go back to main [portfolio page](README.md)
