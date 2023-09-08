@@ -16,7 +16,7 @@ I wish to learn the effective and appropriate visualization techniques that will
 # Portfolio
 
 ## Homework 2: [Visualizing Government Debt](DataVisualizationPortfolioHW.md)
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
+This page shows my work on homework 2, which is comprise of three parts. Part 1 is the data visualization on the comparison of the government debt-to-GDP ratio of select countries for 2018 to 2022. Part 2 is the data visualization on the government debt-to-GDP of select countries from 1996 to 2020 following the sparklines design. And Part 3 is my personal data visualization design of the top 5 countries with the highest government debt-to-GDP ratio from 2007 to 2021.
 
 ## Homeworks 3&4: [Critique by Design](critique-by-design)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
