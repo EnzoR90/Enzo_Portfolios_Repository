@@ -1,4 +1,4 @@
-# I. Comparing the general government debt-to-GDP ratio of select countries for 2018 to 2022
+# I. Comparing the government debt-to-GDP ratio of select countries for 2018 to 2022
 
 <iframe src="https://data.oecd.org/chart/7b5y" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/7b5y" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2022</a></iframe>
 
