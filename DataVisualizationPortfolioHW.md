@@ -5,7 +5,7 @@
 # II. Government debt-to-GDP of select countries from 1996 to 2020
 <div class="flourish-embed flourish-chart" data-src="visualisation/14953142"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-III. Top 5 countries with the highest government debt-to-GDP ratio from 2007 to 2021
+# III. Top 5 countries with the highest government debt-to-GDP ratio from 2007 to 2021
 <div class="flourish-embed flourish-chart" data-src="visualisation/14953663"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 Go back to main [portfolio page](README.md)
