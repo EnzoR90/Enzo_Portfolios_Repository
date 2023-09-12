@@ -22,7 +22,7 @@ This page shows my work on homework 2 that is comprised of three parts. Part 1 i
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
 
 # Lab Exercise [News Organization Trust Survey](Trust in News Organizations.md)
-Using the tableau application, we were able to replicate the data visualization on News Organization Trust Survey.
+Using the tableau application, we were able to replicate the data visualization on News Organization Trust Survey. 
 
 ## Final project
 *I have not yet decided on what I wish to be my final project will be.*
