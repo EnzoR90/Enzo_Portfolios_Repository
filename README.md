@@ -21,7 +21,7 @@ This page shows my work on homework 2 that is comprised of three parts. Part 1 i
 ## Homeworks 3&4: [Critique by Design](critique-by-design)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
 
-# Lab Exercise: [News Organization Trust Survey](TrustinNewsOrganizations.md)
+## Lab Exercise 1: [News Organization Trust Survey](TrustinNewsOrganizations.md)
 Using the tableau application, we were able to replicate the data visualization on News Organization Trust Survey. 
 
 ## Final project
