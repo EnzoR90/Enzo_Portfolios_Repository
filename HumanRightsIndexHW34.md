@@ -101,6 +101,8 @@ As part of my storyline, I dissected further the data presented above first on t
 
 <div class="flourish-embed flourish-bar-chart-race" data-src="visualisation/15078514"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+I decided to do the exact design for the top 10 countries with the lowest HRI as of 2022 for continuity and cohesiveness. One point to emphasize here is the color palette I chose which is black and gray for the graph and red for the labels. I decided to go with these colors since I wanted to underscore the negative information being shown here. I also wanted to give the audience the lack of a positive emotion which is my way of infinitisimally capturing the plight of the people who suffers from the lack of Human Rights. A glaring assessment of this visualization is on the trend which started with a wide gap from the highest two for the first eight years and dramatically spread on the last three years. It is also worthy to mention the changes in the HRI for these countries which significantly changed from the 2012 to 2022.
+
 <div class="flourish-embed flourish-bar-chart-race" data-src="visualisation/15078182"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 Go back to main [portfolio page](README.md)
