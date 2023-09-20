@@ -22,9 +22,13 @@ This page shows my work on homework 2 that is comprised of three parts. Part 1 i
 This data visualization homework particularly looks at a publicly available visualization with the end goal of redesigning it based on critiques gathered from contemporaries at the university. The process involved five distinct steps, these are as follows:
 
 *Step 1:* Finding a publicly available data visualization
+
 *Step 2:* Critiquing the data visualization using Stephen Few's Data Visualization Effectiveness Profile
+
 *Step 3:* Sketching of the prospective redesign
+
 *Step 4:* Testing out the solution through sharing them to contemporaries for feedback
+
 *Step 5:* Creating a solution based on all the gathered feedback
 
 I have detailed my experience on this homework in the provided link for this section.
