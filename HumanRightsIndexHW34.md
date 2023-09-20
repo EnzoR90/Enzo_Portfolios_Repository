@@ -10,11 +10,11 @@ For this homework, I looked at the Human Rights Index of the world with the purp
 
 I provided an in-depth critique of the original data visualization above using Stephen Few's Data Visualization Profile. This evaluation method/tool provided me with a set of criteria to objectively gauge the data visualization against. Here, I evaluated the data visualization based on the following on a 1 to 10 score range (i.e., 1 being the lowest, 10 being the highest): 
 
-*Usesfulness:* Is the data visualization useful
+*Usefulness:* Is the data visualization useful
 
 *Completeness:* Does the data visualization showed all information for clarity
 
-*Perceptability:* Is the data visualization easily digestable/undertandable
+*Perceptability:* Is the data visualization easily digestable/understandable
 
 *Truthfulness:* Does the data visualization show accurate, reliable, and valid information
 
@@ -32,21 +32,21 @@ Following the evaluation, I then proceeded with my sketches of my planned redesi
 
 <img src="Sketch 1.png" width="600"/> 
 
-For my second sketch, I made it very two-dimensional with very limited data just to assess whether my interviewees would be able to deduce what the information pertains to. Also, I wanted to provide a dichotomy of the first sketch just to get the sense of the audience's preference with the same data provided. I looked at one set of data year which was 2022 to gauge whether it would be better for an audience point-of-view as opposed to multiple data year:
+For my second sketch, I made it very two-dimensional with very limited data just to assess whether my interviewees would be able to deduce what the information pertains to. Also, I wanted to provide a dichotomy of the first sketch just to get the sense of the audience's preference with the same data provided. I looked at one set of data year which was 2022 to gauge whether it would be better for an audience's point-of-view as opposed to multiple data year:
 
 <img src="Sketch 2.png" width="600"/> 
 
 **Step 4:**
 
-Once I completed my sketches, I tested them out to two contemporaries of mine at the university. For this exercise, I just presented the data visualization to them without explaining the content. In lieu of the explanation, I gave them about two minutes to look at the two sketches and emphasized that there are no wrong answers. I deliberately selected the interviewees that are not in the Public Policy and Management program so that to illiminate any bias on the information presented. With this said, they looked at the sketches as part of the regular public which is my aim from the beginning. The following are details of the interviewees' profile and feedback.
+Once I completed my sketches, I tested them out to two contemporaries of mine at the university. For this exercise, I just presented the data visualization to them without explaining the content. In lieu of the explanation, I gave them about two minutes to look at the two sketches and emphasized that there are no wrong answers. I deliberately selected the interviewees that are not in the Public Policy and Management program to illiminate any bias on the information presented. With this said, they looked at the sketches as part of the regular public which is my aim from the beginning. The following are details of the interviewees' profile and feedback:
 
 *Female Student 1, Mid-20s*
 
 When asked about what Female Student 1 think what they think the visualization is, they answered that they believe it is about Human Rights, freedom of people based on race, gender, rules. They mentioned that the first sketch did not provide clarity on what HRI is about. 
 
-When asked to describe what the visualization is telling them, Female Student 1 said that they can see which countries offer less freedom (i.e., Asia & Africa), and countries that offer more freedom (i.e., Europe & USA), and the value of its evolution over time presented with sketch 1.
+When asked to describe what the visualization is telling them, Female Student 1 said that they can see which countries offer less freedom (i.e., Asia & Africa), and countries that offer more freedom (i.e., Europe & USA), and the value of its evolution over time presented in sketch 1.
 
-Female Student 1 find it surprising that there are less HRI on average in Asia, while not surprise in Africa considering the continent is in turmoil and have more authoritarian ruling. They went on to say that Asia should have more freedom considering the Western influence in the continent.
+Female Student 1 find it surprising that there are less HRI in Asia, while not surprise in Africa considering the continent is in turmoil and have more authoritarian ruling. They went on to say that Asia should have more freedom considering the Western influence in the continent.
 
 The intended audience guessed by Female Student 1 was an average person like them or maybe the United Nations.
 
@@ -64,7 +64,7 @@ They noted that they do not have anything to change but highlighted that they pr
 
 *Test and Get Feedback: Capture Feedback*
 
-For this in-class exercise, I was grouped with four other **Telling Stories with Data** students. I showed them the two sketches and I made a brevity explanation for each. The feedback I received from the group are the following:
+For this in-class exercise, I was grouped with three other **Telling Stories with Data** students. I showed them the two sketches and provided a brevity explanation for each. The feedback I received from the group are the following:
 
 What worked?
 
@@ -86,7 +86,7 @@ Maybe to only show top and bottom 10 countries based on their HRI. For the story
 
 The central theme that I gathered from the feedback I received, is on the storyline of my sketches. It seemed that my narrative is faint and that it needs to be emphasized. It got me thinking of finding a different angle that I can point towards. Aside from the storyline that I want to share, I also want to provide impact on the data considering its social relevance and importance. Another area that I need to address is on clarity, since not everyone is a political scientist and in the policy realm, my visualization must convey information that will be comprehensible to the general public.
 
-Cognizant of all of these, my solution to the redesign conundrum is to dissect the plentiful data I possess. I decided to single in one year which is 2022 and look at the top 10 countries with the highest and lowest HRI. Here, I wanted to show the gap between the top 10 and bottom 10 countries, and to show the region that fosters the most and lowest Human Rights. For the visualization design, I chose treemap using tableau since I wanted a simple yet easily understandable design. With the treemap design, I am able to present the top and low buckets that corresponds to their respective HRI succinctly. I am also able to provide more information on the HRI to benefit the audience that are not familiar with the topic, but in a way that are not text heavy yet the impact of the information is I believe achieved. Consistent with my hitherto visualization, my color palette is neutral and tends to favor blue and green.
+Cognizant of all of these, my solution to the redesign conundrum is to dissect the plentiful data I possess. I decided to single in one year which is 2022 and look at the top 10 countries with the highest and lowest HRI. Here, I wanted to show the gap between the top 10 and bottom 10 countries, and to show the region that fosters the most and lowest Human Rights. For the visualization design, I chose treemap using tableau since I wanted a simple yet easily understandable design. With the treemap design, I am able to present the top and low buckets that corresponds to their respective HRI succinctly. I am also able to provide more information on the HRI to benefit the audience that are not familiar with the topic, but in a way that are not text heavy yet the impact of the information is I believe achieved. Consistent with my hitherto data visualizations, my color palette is neutral and tends to favor blue and green.
 
 <div class='tableauPlaceholder' id='viz1695180202720' style='position: relative'><noscript><a href='#'><img alt='2022 Top 10 Countries with the Highest and Lowest Human Rights Index (HRI)HRI pertains to being free from government torture, political killings, and forced labor; property rights; and freedoms of movement, religion, expression, and association. ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;20&#47;2022HRIVisualization&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='2022HRIVisualization&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;20&#47;2022HRIVisualization&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
 <script type='text/javascript'>                    
@@ -97,9 +97,11 @@ Cognizant of all of these, my solution to the redesign conundrum is to dissect t
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
-As part of my storyline, I dissected further the data presented above first on the top 10 countries with the highest HRI as of 2022. For this part of my visualization, I wanted to assess whether these countries have consistently been high in their HRI or otherwise. To effectively show this, I decided to go back 10 years which I believe can sufficiently provide the trend, or lack thereof, I was looking for. The visualization design I chose here is the bar chart race with timeline using flourish because the trend is better presented through time. Presenting the trend this way provides nuance assessment of the countries' HRI, historically speaking, some countries may start at the bottom and end up at the top or vise-versa. The color I chose here is the green palette since I wanted to emphasize that these countries have good human rights, intuitively this alludes positivity. For clarity, I deliberately shown the country and graph numbers. For the title, I decided to make it playful wherein the audience will also think for the answer which can be found in the visualization.
+
+As part of my storyline, I dissected further the data presented above on the top 10 countries with the highest HRI as of 2022. For this part of my visualization, I wanted to assess whether these countries have consistently been high in their HRI or otherwise. To effectively show this, I decided to go back 10 years which I believe can sufficiently provide the trend, or lack thereof, I was looking for. The visualization design I chose here is the bar chart race with timeline using flourish because the trend is better presented through time. Presenting the trend this way provides nuance assessment of the countries' HRI, historically speaking, some countries may start at the bottom and end up at the top or vise-versa. The color I chose here is the green palette since I wanted to emphasize that these countries have good human rights, intuitively this alludes positivity. For clarity, I deliberately shown the country and graph numbers. For the title, I decided to make it playful wherein the audience will also think for the answer which can be found in the visualization.
 
 <div class="flourish-embed flourish-bar-chart-race" data-src="visualisation/15078514"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
 
 I decided to do the exact design for the top 10 countries with the lowest HRI as of 2022 for continuity and cohesiveness. One point to emphasize here is the color palette I chose which is black and gray for the graph and red for the labels. I decided to go with these colors since I wanted to underscore the negative information being shown here. I also wanted to give the audience the lack of a positive emotion which is my way of infinitisimally capturing the plight of the people who suffers from the lack of Human Rights. A glaring assessment of this visualization is on the trend which started with a wide gap from the highest two for the first eight years and dramatically spread on the last three years. It is also worthy to mention the changes in the HRI for these countries which significantly changed from the 2012 to 2022.
 
