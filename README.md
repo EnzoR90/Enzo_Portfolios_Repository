@@ -1,3 +1,5 @@
+| [home page](README.md) | [Visualizing Government Debt-to-GDP Ratio](DataVisualizationPortfolioHW.md) | [News Organization Trust Survey](TrustinNewsOrganizations.md) | [final project I](final_project_PartI_EnzoRodriguez.md) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+
 # Portfolio
 This fall 2023, I am taking the course *Telling Stories with Data* at the Carnegie Mellon University. Here you can preview my portfolio designs as I learn and explore more with data visualization contingent to the tools available to me. I cannot wait to take you with me in this journey!
 
