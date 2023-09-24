@@ -16,26 +16,34 @@ Cognizant of the aforementioned discussion, this final project aims to evaluate 
 > A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
 
 ## Structure
+
 **What is the current status of Financial Inclusion in the World?**
+
 This section will provide the audience a backdrop of what the current worldwide statistics for Financial Inclusion. The aim here is to inform the audience of the real need for Financial Inclusion especially in the underdevelop nations.
 
 **How many people in the Philippines have financial access?**
+
 This section will give the audience the current situation in my home country, the Philippines, in relation to the proportion of its population with financial access. I plan to provide some discussion on the inception of Financial Inclusion in the Philippines and how it paved way to the creation of a regulatory landscape that incentivizes financial institutions to have products/services that promotes financial access for the underprivilege sector of the society.
 
 **What is the situation in the neighboring nations?**
+
 This section will show the audience the proportion of people with financial access in Indonesia, Malaysia, Thailand and Vietnam. This will allude to the assessment of how does the Philippines fair with these nations in this specific advocacy.
 
 **Are they doing enough about this advocacy?**
+
 This section will show the historical trend, or the lack thereof, of these countries' promotion of Financial Inclusion by informing the audience of the proportion of the population with financial access for 2011, 2014, 2017, and 2021 (2022 data is not yet complete based on The World Bank repository).
 
 **Is economic status a factor?**
-This section would show a comparative analysis of each countries' proportion of the population with a financial account for the poorest 40% and richest 60% (i.e., in income for ages 15+). The aim here is to hopefully show whether there is a wide and narrow gap between these segments of the society.
+
+This section will show a comparative analysis of each countries' proportion of the population with a financial account for the poorest 40% and richest 60% (i.e., in income for ages 15+). The aim here is to hopefully show whether there is a wide and narrow gap between these segments of the society.
 
 **How do we move forward from here?**
-This section would inform the audience of the strategic plans of the Philippines in the expansion of Financial Inclusion in the country.
+
+This section will inform the audience of the strategic plans of the Philippines in the expansion of Financial Inclusion in the country.
 
 **Yes, you can help in the Financial Inclusion promotion too!**
-This section would provide the audience with 
+
+This section will provide the audience with some information on the available products and services offered by financial institutios aimed at promoting Financial Inclusion.
 
 ## Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
@@ -43,17 +51,17 @@ This section would provide the audience with
 Text here...
 
 # The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
+For this final project, I decided to source my data from The World Bank specifically their database on the global financial inclusion index that shows select years for each country on important threshold that I prefer to highlight in my narrative. The World Bank is one of the movers when it comes to the global promotion of Financial Inclusion, in fact this advocacy is considered as one of the enablers for their sustainable development goals. 
 
-Text here...
+The specific dataset provides me with the necessary index that I plan to transform into the data visualization that I will show in the sections mentioned above. The website is very convenient since it is like a one stop shop for all relevant indeces in the space. The details of the website is provided below:
 
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
+Name: Global Financial Inclusion
+URL: [https://databank.worldbank.org/source/global-financial-inclusion] (https://databank.worldbank.org/source/global-financial-inclusion)
 
-| Name | URL | Description |
-|------|-----|-------------|
-|      |     |             |
-|      |     |             |
-|      |     |             |
+The second website I decided to use is from the Central Bank of the Philippines that discusses the 
+Name:Inclusive Finance
+URL: [https://www.bsp.gov.ph/SitePages/InclusiveFinance/InclusiveFinance.aspx] (https://www.bsp.gov.ph/SitePages/InclusiveFinance/InclusiveFinance.aspx)
+Description: This is the website for my discussion on the strategic plans of the Philippines.
 
 # Method and medium
 > In a few sentences, you should document how you plan on completing your final project. 
