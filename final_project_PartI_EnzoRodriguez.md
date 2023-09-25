@@ -81,4 +81,4 @@ All the data from the websites above are all publicly available, hence their use
 # Method and medium
 > In a few sentences, you should document how you plan on completing your final project. 
 
-Text here...
+The final project will be completed using shorthand as the main backdrop for unfolding the story and showing the data visualizations. 
