@@ -39,4 +39,4 @@ I have detailed my experience on this homework in the provided link for this sec
 Using the tableau application, we were able to replicate the data visualization on News Organization Trust Survey. 
 
 ## Final project
-*I have not yet decided on what I wish to be my final project will be.*
+For my final project, I want to dive into the Financial Inclusion space. I want to inform the audience of the importance of this advocacy specifically in the economic status of the population. The main focus here will be the Philippines which will be compared with its neighboring countries. Showing the trend in these countries in promoting the advocacy and understanding what lies ahead.
