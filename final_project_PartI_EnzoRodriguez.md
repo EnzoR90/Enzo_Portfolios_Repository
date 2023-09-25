@@ -58,6 +58,11 @@ This sketch will compare between the proportion of Philippine population that ha
 
 <img src="Philippine Data.png" width="600"/> 
 
+*Financial Inclusion in neighboring countries*
+This sketch aims to inform the audience the proportion of population with Financial Access in select South East Asian Nations. My initial idea is a dichotomous bar graph that shows the proportion with financial access and no financial access. For more clarity, I decided to include the value for each graph.
+
+<img src="SouthEastAsian Data.png" width="600"/> 
+
 # The data
 For this final project, I decided to source my data from The World Bank specifically their database on the global financial inclusion index that shows select years for each country on important threshold that I prefer to highlight in my narrative. The World Bank is one of the movers when it comes to the global promotion of Financial Inclusion, in fact this advocacy is considered as one of the enablers for their sustainable development goals. 
 
