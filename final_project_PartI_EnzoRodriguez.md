@@ -43,12 +43,20 @@ This section will inform the audience of the strategic plans of the Philippines 
 
 **Yes, you can help in the Financial Inclusion promotion too!**
 
-This section will provide the audience with some information on the available products and services offered by financial institutios aimed at promoting Financial Inclusion.
+This section will provide the audience with some information on the available products and services offered by financial institutions aimed at promoting Financial Inclusion.
 
 ## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
+The sketches included in this section are just initial ideas on what I envision for the structures above. As a caveat, this may change depending on the final output for this project. I have also included brevity discussion for each sketch so that the audience will be able to understand my thought process or rationale.
 
-Text here...
+*Data on the Financial Inclusion Around the World*
+This sketch aims to show the percentage of people for each country that have financial access, this is the measure that we will use for the Financial Inclusion. Here, I decided to use a cartography of the world with color gradient, the darker the color the higher the proportion of population with financial access and the lighter the color the lower the proportion of population with financial access.
+
+<img src="World Data.png" width="600"/> 
+
+*Current situation of Financial Inclusion in the Philippines*
+This sketch will compare between the proportion of Philippine population that have financial access and those that do not have financial access. My idea is to show a simple bar graph since I want it to be straight forward.
+
+<img src="Philippine Data.png" width="600"/> 
 
 # The data
 For this final project, I decided to source my data from The World Bank specifically their database on the global financial inclusion index that shows select years for each country on important threshold that I prefer to highlight in my narrative. The World Bank is one of the movers when it comes to the global promotion of Financial Inclusion, in fact this advocacy is considered as one of the enablers for their sustainable development goals. 
@@ -56,12 +64,14 @@ For this final project, I decided to source my data from The World Bank specific
 The specific dataset provides me with the necessary index that I plan to transform into the data visualization that I will show in the sections mentioned above. The website is very convenient since it is like a one stop shop for all relevant indeces in the space. The details of the website is provided below:
 
 Name: Global Financial Inclusion
-URL: [https://databank.worldbank.org/source/global-financial-inclusion] (https://databank.worldbank.org/source/global-financial-inclusion)
+URL: https://databank.worldbank.org/source/global-financial-inclusion
 
-The second website I decided to use is from the Central Bank of the Philippines that discusses the 
+The second website I decided to use is from the Central Bank of the Philippines that discusses specifically the Financial Inclusion national strategy in the country. I plan to incorporate this discussion in the sections as highlighted in the structure above. The information that will be gathered here will help me provide context on the current situation in the country, what regulations have been ratified that are aimed at its promotion, and most especially this will inform the audience of some of financial products/services that are already in the market so that they will know what to inquire about.
+
 Name:Inclusive Finance
-URL: [https://www.bsp.gov.ph/SitePages/InclusiveFinance/InclusiveFinance.aspx] (https://www.bsp.gov.ph/SitePages/InclusiveFinance/InclusiveFinance.aspx)
-Description: This is the website for my discussion on the strategic plans of the Philippines.
+URL: https://www.bsp.gov.ph/SitePages/InclusiveFinance/InclusiveFinance.aspx 
+
+All the data from the websites above are all publicly available, hence their use will not be prohibited.
 
 # Method and medium
 > In a few sentences, you should document how you plan on completing your final project. 
