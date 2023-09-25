@@ -75,7 +75,7 @@ URL: <https://databank.worldbank.org/source/global-financial-inclusion>
 
 The second website I decided to use is from the Central Bank of the Philippines that discusses specifically the Financial Inclusion national strategy in the country. I plan to incorporate this discussion in the sections as highlighted in the structure above. The information that will be gathered here will help me provide context on the current situation in the country, what regulations have been ratified that are aimed at its promotion, and most especially this will inform the audience of some of financial products/services that are already in the market so that they will know how to move forward.
 
-Name:Inclusive Finance
+Name: Inclusive Finance
 
 URL: <https://www.bsp.gov.ph/SitePages/InclusiveFinance/InclusiveFinance.aspx>
 
