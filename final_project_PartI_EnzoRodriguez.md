@@ -79,6 +79,4 @@ URL: https://www.bsp.gov.ph/SitePages/InclusiveFinance/InclusiveFinance.aspx
 All the data from the websites above are all publicly available, hence their use will not be prohibited.
 
 # Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
-
-The final project will be completed using shorthand as the main backdrop for unfolding the story and showing the data visualizations. 
+The final project will be completed using shorthand as the main backdrop for unfolding the story and showing the data visualizations. For the creation of the data visualizations, I plan to utilize flourish and tableau. Depending on the graph design, I may have to do a process of iteration just to see which is the most appropriate that consequently will provide an aesthetically pleasing result.
