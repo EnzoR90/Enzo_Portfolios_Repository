@@ -1,9 +1,11 @@
-| [home page](README.md) | [Visualizing Government Debt-to-GDP Ratio](DataVisualizationPortfolioHW.md) | [final project I](final_project_PartI_EnzoRodriguez.md) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](README.md) | [final project I](final_project_PartI_EnzoRodriguez.md) | [Final Project III](final-project-part-three) |
 
 # Wireframes / storyboards
-> Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
+For this part of my final project, I decided to layout my storyboard as outlined in the structure section of the *Final Project I* into shorthand. I created my visualizations using tableau and flourish tools and rendered the respective HTMLs into the shorthand presentation. My shorthand presentation does not provide yet the qualitative side of the story, but I included sub-sections that would hopefully be enough to provide context on the visualizations.
 
-Text here!
+The preview of the shorthand presentation is provided below:
+
+https://preview.shorthand.com/4c3SZ3zFGV2oAWpq
 
 # User research 
 
@@ -55,8 +57,5 @@ Text here!
 
 Text here!
 
-# Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
-
-Text here!
+Return to [home page](README.md)
 
