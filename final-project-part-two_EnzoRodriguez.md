@@ -5,7 +5,7 @@ For this part of my final project, I decided to layout my storyboard as outlined
 
 The preview of the shorthand presentation is provided below:
 
-[https://preview.shorthand.com/4c3SZ3zFGV2oAWpq]
+(https://preview.shorthand.com/4c3SZ3zFGV2oAWpq)[https://preview.shorthand.com/4c3SZ3zFGV2oAWpq]
 
 # User research 
 
