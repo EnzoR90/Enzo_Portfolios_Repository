@@ -5,14 +5,14 @@ For this part of my final project, I decided to layout my storyboard as outlined
 
 The preview of the shorthand presentation is provided below:
 
-https://preview.shorthand.com/4c3SZ3zFGV2oAWpq
+[https://preview.shorthand.com/4c3SZ3zFGV2oAWpq]
 
 # User research 
 
 ## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
+My target audience for this presentation are policy makers and the general public in the Philippines. I believe that it is worthwhile to include policy makers as a target audience since my presentation will be discussing how the Philippines is fairing with other neighboring South East Asian Nations. I will also be highlighting the strategic initiatives that the Philippines has done in this space, with the end goal of nudging them to study how the other countries are able to achieve its Financial Inclusion goal in the span of less than a decade. As the paramount audience for this presentation, the general public are extremely valuable since I really want to motivate everyone to have a formal financial access. In order to see this into fruition, I am providing them with the answers to why Financial Inclusion is important, what are the benefits of Financial Inclusion, how are we fairing with other countries and what it says about our own advocacy. This provision of the basic context aims to inform them without feeding them with too much technical information that they will just forget as soon as the presentation is concluded. I really want to manifest to them that there is tangible benefits of owning a formal bank access. To this end, I will include a slide of some financial products available in the market aimed at promoting Financial Inclusion, which I hope that they can easily inquire into and ultimately to pass to their friends and families consequently creating a ripple effect which would lead to bolstered financial access for everyone.
 
-Text here!
+For this part of the project, I decided to interview varied individuals in lieue of the policy makers and the general public. I deemed it appropriate to interview individuals that would be able to relate to the data presented. 
 
 ## Interview script
 > List the goals from your research, and the questions you intend to ask. 
