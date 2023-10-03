@@ -1,4 +1,4 @@
-| [home page](README.md) | [Visualizing Government Debt-to-GDP Ratio](DataVisualizationPortfolioHW.md) | [Final Project II](final-project-part-two_EnzoRodriguez.md) | [Final Project III](final-project-part-three) |
+| [home page](README.md) | [Final Project II](final-project-part-two_EnzoRodriguez.md) | [Final Project III](final-project-part-three) |
 
 # Outline
 ## Project Abstract
