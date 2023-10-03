@@ -1,4 +1,4 @@
-| [home page](README.md) | [Visualizing Government Debt-to-GDP Ratio](DataVisualizationPortfolioHW.md) | [News Organization Trust Survey](TrustinNewsOrganizations.md) | [final project I](final_project_PartI_EnzoRodriguez.md) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](README.md) | [Visualizing Government Debt-to-GDP Ratio](DataVisualizationPortfolioHW.md) | [Final Project II](final-project-part-two_EnzoRodriguez.md) | [Final Project III](final-project-part-three) |
 
 # Outline
 ## Project Abstract
@@ -83,3 +83,5 @@ All the data from the websites above are all publicly available, hence their use
 
 # Method and medium
 The final project will be completed using shorthand as the main backdrop for unfolding the story and showing the data visualizations. For the creation of the data visualizations, I plan to utilize flourish and tableau. Depending on the graph design, I may have to do a process of iteration just to see which is the most appropriate that consequently will provide an aesthetically pleasing output.
+
+Return to [home page](README.md)
