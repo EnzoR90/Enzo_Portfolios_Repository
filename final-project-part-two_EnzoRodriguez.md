@@ -60,8 +60,8 @@ Following the comments received from the interviewees, I provide below the synth
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
 | Provide clarity on the FI proportion based on Economic Status visualization| I intend to include a clear label for each legends to read as "Proportion of the Richest 60% that have Financial Access" and "Proportion of the Poorest 40% that have Financial Access".|
-|                                          |                                                                                 |
-|                                          |                                                                                 |
+| Colour motif should be consistent across all sections of the presentation.| I intend to change the color background of my visualizations to be cohesive with the theme of the specific slide.|
+|Additional visuals on the normal routine of economic activity.| I intend to incorporate pictures of the normal economic transactions such as people withdrawing money from the ATM and paying using digital money on the "How Do We Move Forward From Here?" and "Yes, YOU can help in the Financial Inclusion promotion!" slides.|
 |                                          |                                                                                 |
 | ...add more rows as necessary            |                                                                                 |
 
