@@ -48,8 +48,7 @@ Presented herein are the answers to the aforementioned questions from each inter
 |What do you like least about the storyboard (eg visualizations, color scheme, typography, etc)?
 The ‘how we move forward from here’ part is missing?|1                                |2             |The **‘how we move forward from here’ part is missing**? Other than that I think the figure of **“Status of FI on Economic Status of Select South East Asian Nations”** is still difficult to understand.|No explanation on FI **strategies**.|
 |How do you think the presentation could be improved?|1                                |2             |Same with question 4 answer.|FI **strategies**.|
-|Do you believe that the storyboard is able to capture the intended purpose? Why or why not?|1                                |2             |Yes I do. After seeing it I realize how big the issue is in Philippines. I also gain more knowledge by seeing the visualization in comparison with others in SE Asia.|Yes, it explains how graphically pitiful the Philippine’s FI compared to Thailand and
-Malaysia. But need to present how to strategies and advertise FI to very far flung people who has no direct access to financial services.|
+|Do you believe that the storyboard is able to capture the intended purpose? Why or why not?|1                                |2             |Yes I do. After seeing it I realize how big the issue is in Philippines. I also gain more knowledge by seeing the visualization in comparison with others in SE Asia.|Yes, it explains how graphically pitiful the Philippine’s FI compared to Thailand and Malaysia. But need to present how to strategies and advertise FI to very far flung people who has no direct access to financial services.|
 
 
 # Identified changes for Part III
