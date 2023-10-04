@@ -25,18 +25,17 @@ For this part of the project, I decided to interview varied individuals in lieue
 All the interviewees' answers to the research questions are outlined in the subsequent section and are synthesized following that which will feed into the final edits of the presentation.
 
 ## Interview script
-> List the goals from your research, and the questions you intend to ask. 
-
-Text here!
+For this part of project research, I have prepared six questions that I threw at the interviewees after they previewed the shorthand presentation. I specifically provided them with a few minutes to let all the information be digested before I asked them these questions. For the specific goal of each questions, I have provided the detailed explanation below:
 
 | Goal                                                          | Questions to Ask |
-|---------------------------------------------------------------|:----------------:|
+|---------------------------------------------------------------|------------------|
 | This question is alluding to their comprehension of the topic.|Based on the storyboard, do you feel like Financial Inclusion should be a priority?|
-|      |                  |
-|      |                  |
+| This question aims to assess whether the flow of the narrative is easy to follow and understand.|Does the narrative of the storyboard cohesive and clear?|
+| This question aims to gauge what works in the presentation design.|What do you like most about the storyboard (eg visualizations, color scheme, typography, etc)?|
+| This question aims to gauge what does not work in the presentation design.|What do you like least about the storyboard (eg visualizations, color scheme, typography, etc)?|
+| This question is alluding to how the audience would be better presented with the narrative. | How do you think the presentation could be improved?|
+| This question is driving the point of their comprehension of the topic which complements the first question. | Do you believe that the storyboard is able to capture the intended purpose? Why or why not?|
 
-
-Text here!
 
 ## Interview findings
 > Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
