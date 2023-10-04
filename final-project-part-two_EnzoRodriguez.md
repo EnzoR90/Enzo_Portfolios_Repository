@@ -25,7 +25,7 @@ For this part of the project, I decided to interview varied individuals in lieue
 All the interviewees' answers to the research questions are outlined in the subsequent section and are synthesized following that which will feed into the final edits of the presentation.
 
 ## Interview script
-For this part of project research, I have prepared six questions that I threw at the interviewees after they previewed the shorthand presentation. I specifically provided them with a few minutes to let all the information be digested before I asked them these questions. For the specific goal of each questions, I have provided the detailed explanation below:
+For this part of project research, I have prepared six questions that I shared to the interviewees after they previewed the shorthand presentation. I specifically provided them with a few minutes to let all the information be digested before I asked them these questions. For the specific goal of each questions, I have provided the detailed explanation below:
 
 | Goal                                                          | Questions to Ask |
 |---------------------------------------------------------------|------------------|
