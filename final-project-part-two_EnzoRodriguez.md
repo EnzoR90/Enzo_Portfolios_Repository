@@ -5,7 +5,7 @@ For this part of my final project, I decided to layout my storyboard as outlined
 
 The preview of the shorthand presentation is provided below:
 
-[Financial Inclusion: Why is it Matters](https://preview.shorthand.com/4c3SZ3zFGV2oAWpq)
+[Financial Inclusion: Why it Matters](https://preview.shorthand.com/4c3SZ3zFGV2oAWpq)
 
 # User research 
 
