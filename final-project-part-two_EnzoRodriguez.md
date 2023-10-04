@@ -38,9 +38,7 @@ For this part of project research, I have prepared six questions that I threw at
 
 
 ## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
-
-Text here!
+Presented herein are the answers to the aforementioned questions from each interviewees. For similar comments, I took the liberty to highlight them for easy reference of the reader and to also check whether these are properly addressed in the final edits of the presentation. These highlighted comments are synthesized in the subsequent section with the proper discussion of how this can be implemented in the final design.
 
 | Questions               | Interviewee 1                  | Interviewee 2 | Interviewee 3 | Interviewee 4 |
 |-------------------------|--------------------------------|---------------|---------------|---------------|
@@ -48,20 +46,18 @@ Text here!
 |Does the narrative of the storyboard cohesive and clear?|1                                |2             |Yes.             |All clear about the comparison between countries but need what should be done to do FI.|
 |What do you like most about the storyboard (eg visualizations, color scheme, typography, etc)?|1                                |2             |Visualization especially the Proportion of Population with and without Financial Access in Select South East Asian Nations and the Historical FI Index of Select South East Asian Nations|All aspects of it except the parts where you need to explain the strategy.|
 |What do you like least about the storyboard (eg visualizations, color scheme, typography, etc)?
-The ‘how we move forward from here’ part is missing?|1                                |2             |The ‘how we move forward from here’ part is missing? Other than that I think the figure of “Status of FI on Economic Status of Select South East Asian Nations” is still difficult to understand.|No explanation on FI strategies.|
-|How do you think the presentation could be improved?|1                                |2             |Same with question 4 answer.|FI strategies.|
+The ‘how we move forward from here’ part is missing?|1                                |2             |The **‘how we move forward from here’ part is missing**? Other than that I think the figure of **“Status of FI on Economic Status of Select South East Asian Nations”** is still difficult to understand.|No explanation on FI **strategies**.|
+|How do you think the presentation could be improved?|1                                |2             |Same with question 4 answer.|FI **strategies**.|
 |Do you believe that the storyboard is able to capture the intended purpose? Why or why not?|1                                |2             |Yes I do. After seeing it I realize how big the issue is in Philippines. I also gain more knowledge by seeing the visualization in comparison with others in SE Asia.|Yes, it explains how graphically pitiful the Philippine’s FI compared to Thailand and
 Malaysia. But need to present how to strategies and advertise FI to very far flung people who has no direct access to financial services.|
 
 
 # Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
-
-Text here!
+Following the comments received from the interviewees, I provide below the synthesized points of the said comments. Based on these comments, I also included the proposed action on how to implement these in the edits of the final presentation.
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
+| Provide clarity on the FI proportion based on Economic Status visualization| I intend to include a clear label for each legends to read as "Proportion of the Richest 60% that have Financial Access" and "Proportion of the Poorest 40% that have Financial Access".|
 |                                          |                                                                                 |
 |                                          |                                                                                 |
 |                                          |                                                                                 |
