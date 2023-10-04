@@ -42,11 +42,16 @@ For this part of project research, I have prepared six questions that I threw at
 
 Text here!
 
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
-|-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
+| Questions               | Interviewee 1                  | Interviewee 2 | Interviewee 3 | Interviewee 4 |
+|-------------------------|--------------------------------|---------------|---------------|---------------|
+| Based on the storyboard, do you feel like Financial Inclusion should be a priority? |1            |2             |Yes.|Yes, it may be long overdue for the PH to be or part of our neighboring Asian brothers who are surpassing us not just technologically but as economically and financially. Banks need to reach out further not just concentrate profit and business in the greater metropolitan area.|
+|Does the narrative of the storyboard cohesive and clear?|1                                |2             |Yes.             |All clear about the comparison between countries but need what should be done to do FI.|
+|What do you like most about the storyboard (eg visualizations, color scheme, typography, etc)?|1                                |2             |Visualization especially the Proportion of Population with and without Financial Access in Select South East Asian Nations and the Historical FI Index of Select South East Asian Nations|All aspects of it except the parts where you need to explain the strategy.|
+|What do you like least about the storyboard (eg visualizations, color scheme, typography, etc)?
+The ‘how we move forward from here’ part is missing?|1                                |2             |The ‘how we move forward from here’ part is missing? Other than that I think the figure of “Status of FI on Economic Status of Select South East Asian Nations” is still difficult to understand.|No explanation on FI strategies.|
+|How do you think the presentation could be improved?|1                                |2             |Same with question 4 answer.|FI strategies.|
+|Do you believe that the storyboard is able to capture the intended purpose? Why or why not?|1                                |2             |Yes I do. After seeing it I realize how big the issue is in Philippines. I also gain more knowledge by seeing the visualization in comparison with others in SE Asia.|Yes, it explains how graphically pitiful the Philippine’s FI compared to Thailand and
+Malaysia. But need to present how to strategies and advertise FI to very far flung people who has no direct access to financial services.|
 
 
 # Identified changes for Part III
