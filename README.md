@@ -38,5 +38,5 @@ I have detailed my experience on this homework in the provided link for this sec
 ## Lab Exercise 1: [News Organization Trust Survey](TrustinNewsOrganizations.md)
 Using the tableau application, we were able to replicate the data visualization on News Organization Trust Survey. 
 
-## Final project [Final Project I](final_project_PartI_EnzoRodriguez.md) [Final Project II](final-project-part-two_EnzoRodriguez.md) [Final Project III](final-project-part-three-EnzoRodriguez.md)
+## Final project: [Final Project I](final_project_PartI_EnzoRodriguez.md) [Final Project II](final-project-part-two_EnzoRodriguez.md) [Final Project III](final-project-part-three-EnzoRodriguez.md)
 For my final project, I want to dive into the Financial Inclusion space. I want to inform the audience of the importance of this advocacy specifically in the economic status of the population. The main focus here will be the Philippines which will be compared with its neighboring countries. Showing the trend in these countries in promoting the advocacy and understanding what lies ahead.
