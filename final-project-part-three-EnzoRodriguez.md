@@ -3,7 +3,19 @@
 # The final data story
 <script src="https://carnegiemellon.shorthandstories.com/Financial-Inclusion/embed.js"></script>
 
-Text here!
+The final data story is completed using the medium shorthand. I decided to segment my data story into nine that builds upon each discussion that better emphasizes the narrative of the need for further promotion of Financial Inclusion advocacy in the Philippines. I deliberately started the data story with a write-up on the official description of Financial Inclusion and explained why this advocacy matters and/or important. To better capture the value of the advocacy, I also added a write-up on the risks associated with people having no Financial Access on macro- and micro-level.
+
+Overall, the visualizations are embedded in sections III - VII with a brevity discussion on what the story is highlighting in that particular visualization. Personally, this is very helpful for me whenever I present the story since it provides me with the concepts that I will be able to concisely discuss to the audience. For the list of the sections in my data story, provided below are as follows:
+
+I. Abstract
+II. Risk of No Financial Inclusion
+III. World Wide Financial Inclusion Index
+IV. Philippine Financial Inclusion
+V. South East Asian Nation (SEAN) Index
+VI. Historical SEAN
+VII. Economic Status SEAN
+VIII. The Philippines Strategy
+IX. Financial Inclusion Products
 
 # Changes made since Part II
 > Include few paragraphs that reflects on changes you made since the completion of Part II. 
