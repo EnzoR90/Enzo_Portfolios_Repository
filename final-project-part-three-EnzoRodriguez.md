@@ -50,6 +50,6 @@ To hit the story home, I also provided the target audience information on some s
 # Final thoughts
 > You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
 
-Text here!
+Overall, I really enjoyed creating my data story from the various medium and methods available to us. I am privilege to learn these from Professor Goranson, that led to me to effectively use them in the final visualization and data story design. I absolutely love the creative process that is involved in the finalization of the design, I took it upon myself to really be thoughtful on each steps of the process since I believe that something will float that I would never think by just doing one go of the final design.
 
 Return to [home page](README.md)
