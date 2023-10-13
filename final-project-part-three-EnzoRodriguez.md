@@ -52,4 +52,6 @@ To hit the story home, I also provided the target audience information on some s
 
 Overall, I really enjoyed creating my data story from the various medium and methods available to us. I am privilege to learn these from Professor Goranson, that led to me to effectively use them in the final visualization and data story design. I absolutely love the creative process that is involved in the finalization of the design, I took it upon myself to really be thoughtful on each steps of the process since I believe that something will float that I would never think by just doing one go of the final design.
 
+As evidence of my discussion above, I was able to add nuance discussion 
+
 Return to [home page](README.md)
