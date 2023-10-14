@@ -1,4 +1,4 @@
-| [[Home Page](README.md) | [Final Project I](final_project_PartI_EnzoRodriguez.md) | [Final Project II](final-project-part-two_EnzoRodriguez.md)
+| [Home Page](README.md) | [Final Project I](final_project_PartI_EnzoRodriguez.md) | [Final Project II](final-project-part-two_EnzoRodriguez.md)
 
 # The final data story
 <script src="https://carnegiemellon.shorthandstories.com/Financial-Inclusion/embed.js"></script>
