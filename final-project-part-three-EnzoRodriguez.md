@@ -51,6 +51,10 @@ Setting the narrative as mentioned above, I wanted to also inform the audience o
 
 To hit the story home, I also provided the target audience information on some select financial products currently in the market. Since I know that all the audience have smart devices, I made it easy for them to look up these products by providing them a QR code that they can scan. This will also aid in my goal of increased promotion, since it is very convenient to take a picture of the slide with the QR code wherein they can immediately send to their social media chat groups. 
 
+# References
+| ------------- Title ---------------- | ------------ URL --------------- |
+World Bank Description of Financial Inclusion
+
 # Final thoughts
 Overall, I really enjoyed creating my data story from the various medium and methods available to us. I am privilege to learn these from Professor Goranson, that led to me to effectively use them in the final visualization and data story design. I absolutely love the creative process that is involved in the finalization of the design, I took it upon myself to really be thoughtful on each steps of the process since I believe that something will float that I would never think by just doing one go of the final design.
 
