@@ -52,8 +52,21 @@ Setting the narrative as mentioned above, I wanted to also inform the audience o
 To hit the story home, I also provided the target audience information on some select financial products currently in the market. Since I know that all the audience have smart devices, I made it easy for them to look up these products by providing them a QR code that they can scan. This will also aid in my goal of increased promotion, since it is very convenient to take a picture of the slide with the QR code wherein they can immediately send to their social media chat groups. 
 
 # References
-| ------------- Title ---------------- | ------------ URL --------------- |
-World Bank Description of Financial Inclusion
+The following are the reference materials that are utilized for the final data story. These links are embedded in the presentation and were added as citation where appropriate:
+
+| Title | URL |
+| ----- | ----- |
+| World Bank Description of Financial Inclusion | [https://www.worldbank.org/en/topic/financialinclusion/overview] (https://www.worldbank.org/en/topic/financialinclusion/overview) |
+| International Monetary Fund Study on Having No Financial Access | [https://www.imf.org/en/News/Articles/2015/09/28/04/53/sp062614a] (https://www.imf.org/en/News/Articles/2015/09/28/04/53/sp062614a) |
+| World Bank Global Financial Inclusion Index | [https://databank.worldbank.org/source/global-financial-inclusion] (https://databank.worldbank.org/source/global-financial-inclusion) |
+| Financial Inclusion Baseline Survey of the Philippines | [https://www.creditinfo.gov.ph/inclusive-financial-system-%E2%80%93-bsps-new-goal] (https://www.creditinfo.gov.ph/inclusive-financial-system-%E2%80%93-bsps-new-goal) |
+| World Bank Global Population | [https://worldpopulationreview.com/countries] (https://worldpopulationreview.com/countries) |
+| Flag Images | [https://www.britannica.com/] (https://www.britannica.com/) |
+| The Philippine National Strategy for Financial Inclusion 2022 Report | [https://www.bsp.gov.ph/Pages/InclusiveFinance/2022NSFIAnnualReport.pdf] (https://www.bsp.gov.ph/Pages/InclusiveFinance/2022NSFIAnnualReport.pdf) |
+| List of Financial Institutions with Basic Deposit Account | [https://www.bsp.gov.ph/Lists/Directories/Attachments/18/BDA.pdf] (https://www.bsp.gov.ph/Lists/Directories/Attachments/18/BDA.pdf) |
+| eGov PH Download Page | [https://e.gov.ph/] (https://e.gov.ph/) |
+| Great Women Project 2 - Philippine Commission for Women | [https://pcw.gov.ph/great-women-project/] (https://pcw.gov.ph/great-women-project/) |
+| Credit Surety Fund Primer | [https://www.bsp.gov.ph/Inclusive%20Finance/Financial_Inclusion-Advocacies/CSF_Primer.pdf] (https://www.bsp.gov.ph/Inclusive%20Finance/Financial_Inclusion-Advocacies/CSF_Primer.pdf) |
 
 # Final thoughts
 Overall, I really enjoyed creating my data story from the various medium and methods available to us. I am privilege to learn these from Professor Goranson, that led to me to effectively use them in the final visualization and data story design. I absolutely love the creative process that is involved in the finalization of the design, I took it upon myself to really be thoughtful on each steps of the process since I believe that something will float that I would never think by just doing one go of the final design.
