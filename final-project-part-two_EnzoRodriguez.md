@@ -1,5 +1,4 @@
 | [Home Page](README.md) | [Final Project I](final_project_PartI_EnzoRodriguez.md) | [Final Project III](final-project-part-three-EnzoRodriguez.md) |
-|   :---:   |   :---:   |   :---:   |
 
 # Wireframes / storyboards
 For this part of my final project, I decided to layout my storyboard as outlined in the structure section of the *Final Project I* into shorthand. I created my visualizations using tableau and flourish tools and rendered the respective HTMLs into the shorthand presentation. My shorthand presentation does not provide yet the qualitative side of the story, but I included sub-sections that would hopefully be enough to provide context on the visualizations and the seamless flow of the narrative.
