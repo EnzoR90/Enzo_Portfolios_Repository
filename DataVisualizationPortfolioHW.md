@@ -1,4 +1,5 @@
 | [Home Page](README.md) | [News Organization Trust Survey](TrustinNewsOrganizations.md) | [Final Project I](final_project_PartI_EnzoRodriguez.md) | [Final Project II](final-project-part-two_EnzoRodriguez.md) | [Final Project III](final-project-part-three) |
+|   :---:   |   :---:   |   :---:   |   :---:   |   :---:   |
 
 # I. Comparing the government debt-to-GDP ratio of select countries for 2018 to 2022
 
