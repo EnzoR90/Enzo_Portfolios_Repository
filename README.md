@@ -8,7 +8,7 @@ This fall 2023, I am taking the course *Telling Stories with Data* at the Carneg
 
 Mabuhay!  My name is **Kent Laurence** but my preferred name is **Enzo**. I am an international merit scholar from the Philippines studying Master's of Science, Public Policy and Management with Digital Transformation and Analytics concentration. My interest in data visualization stemmed from the nascent utilization in my home country, this made me want to further my knowledge/expertise so that I am able to interpret data in a meaningful and easily digestible manner.
 
-Fan facts about me, I used to be a mountain climber, but since I have no time to do this here in the U.S., I shifted my interest into working out five times a week. I am also a fur parent to two adorable and energetic beagles. 
+Fun facts about me, I used to be a mountain climber, but since I have no time to do this here in the U.S., I shifted my interest into working out five times a week. I am also a fur parent to two adorable and energetic beagles. 
 
 <img src="Beagles.jpg" width="200"/> 
 
