@@ -2,7 +2,6 @@
 Explore my data visualization projects and learnings from the *Telling Stories with Data* course at Carnegie Mellon University.
 
 | [Home](README.md) | [Visualizing Government Debt-to-GDP Ratio](DataVisualizationPortfolioHW.md) | [News Organization Trust Survey](TrustinNewsOrganizations.md) | [Final Project I](final_project_PartI_EnzoRodriguez.md) | [Final Project II](final-project-part-two_EnzoRodriguez.md) | [Final Project III](final-project-part-three-EnzoRodriguez.md) |
-|-------------------|-------------------------------------------------------------|-----------------------------------------------------|--------------------------------------------------|------------------------------------------------------|--------------------------------------------------------|
 
 
 # Portfolio
